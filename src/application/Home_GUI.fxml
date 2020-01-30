@@ -11,7 +11,10 @@
       <BorderPane layoutX="1022.0" layoutY="562.0" prefHeight="200.0" prefWidth="200.0" />
       <VBox prefHeight="762.0" prefWidth="232.0">
          <children>
-            <Button mnemonicParsing="false" prefHeight="88.0" prefWidth="251.0" text="Button" />
+            <Button mnemonicParsing="false" prefHeight="96.0" prefWidth="251.0" text="Home" />
+            <Button mnemonicParsing="false" prefHeight="96.0" prefWidth="251.0" text="Study" />
+            <Button mnemonicParsing="false" prefHeight="96.0" prefWidth="251.0" text="Budget" />
+            <Button mnemonicParsing="false" prefHeight="96.0" prefWidth="251.0" text="Calender" />
          </children>
       </VBox>
       <VBox layoutX="242.0" prefHeight="762.0" prefWidth="981.0" />
